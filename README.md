@@ -51,4 +51,4 @@
 
 ### **라이센스**
 
-- 이 커리큘럼은 [MIT 라이센스](https://github.com/seanlion/jungleYourselfCS/blob/main/LICENSE)를 따릅니다. 원하는대로 쓰시고 개작하실 수 있습니다. 다만 이 커리큘럼의 내용이 마음에 드셨을 경우, 만약 원하신다면 `[JungleYourselfCS](github주소)`에서 영감을 받았다 라는 언급을 해 주시면 감사하겠습니다.
+- 이 커리큘럼은 [MIT 라이센스](https://github.com/seanlion/jungleYourselfCS/blob/main/LICENSE)를 따릅니다. 원하는대로 쓰시고 개작하실 수 있습니다. 다만 이 커리큘럼의 내용이 마음에 드셨을 경우, 만약 원하신다면 `[JungleYourselfCS](https://github.com/seanlion/jungleYourselfCS)`에서 영감을 받았다 라는 언급을 해 주시면 감사하겠습니다.
