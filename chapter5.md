@@ -23,9 +23,9 @@ MIT에서 한 달 짜리 수업으로 나왔으며, 모든 자료가 대중들�
 
 ### Resources
 
-- [강의 링크]([https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J))
-- [실라버스 원문]([https://missing.csail.mit.edu/](https://missing.csail.mit.edu/))
-- [실라버스 한글 버전]([https://missing-semester-kr.github.io/2020/](https://missing-semester-kr.github.io/2020/))
+- [강의 링크](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+- [실라버스 원문](https://missing.csail.mit.edu/)
+- [실라버스 한글 버전](https://missing-semester-kr.github.io/2020/)
 
 ### Checklist
 
