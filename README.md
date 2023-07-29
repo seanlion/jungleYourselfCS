@@ -24,6 +24,8 @@
 - Chapter 3 - Computer Architecture
 - Chapter 4 - Database
 - Chapter 5 - Missing Semester
+- Chapter 6 - Algorithms (T.B.D)
+- Chapter 7 - Blockchain (T.B.D)
 
 ## **이 커리큘럼을 진행하시는 신규 정글 교육생 분들께**
 
